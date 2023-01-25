@@ -1,0 +1,621 @@
+../sample_data/coll_1
+hour~1
+	news_0064569.json|1
+
+decemb~1
+	news_0064568.json|2
+
+open~1
+	news_0064569.json|2
+
+britain~1
+	news_0064567.json|5
+
+european~1
+	news_0064569.json|2
+
+lower~1
+	news_0064569.json|2
+
+reuter~2
+	news_0064568.json|1
+	news_0064567.json|1
+
+are~1
+	news_0064567.json|3
+
+comment~1
+	news_0064569.json|2
+
+directorgener~1
+	news_0064567.json|2
+
+follow~1
+	news_0064569.json|1
+
+jerom~1
+	news_0064569.json|1
+
+meur~1
+	news_0064568.json|1
+
+powel~1
+	news_0064569.json|2
+
+strax~1
+	news_0064568.json|1
+
+ago~1
+	news_0064569.json|1
+
+berlin~1
+	news_0064567.json|1
+
+carrefour~1
+	news_0064569.json|1
+
+cost~2
+	news_0064568.json|4
+	news_0064567.json|4
+
+dihk~1
+	news_0064567.json|2
+
+elsewher~1
+	news_0064567.json|1
+
+fed~1
+	news_0064569.json|1
+
+gradual~1
+	news_0064569.json|1
+
+intern~1
+	news_0064567.json|1
+
+leader~1
+	news_0064567.json|2
+
+mani~1
+	news_0064567.json|1
+
+new~1
+	news_0064567.json|1
+
+period~1
+	news_0064568.json|2
+
+report~1
+	news_0064569.json|1
+
+solvay~1
+	news_0064569.json|1
+
+trade~1
+	news_0064567.json|3
+
+addingfil~1
+	news_0064567.json|1
+
+amount~1
+	news_0064568.json|2
+
+bare~1
+	news_0064567.json|1
+
+bind~1
+	news_0064567.json|1
+
+businessesth~1
+	news_0064567.json|1
+
+chamber~1
+	news_0064567.json|1
+
+compani~1
+	news_0064568.json|1
+
+custom~1
+	news_0064567.json|3
+
+deterior~1
+	news_0064567.json|1
+
+director~1
+	news_0064567.json|2
+
+econom~1
+	news_0064567.json|1
+
+equiti~1
+	news_0064569.json|1
+
+extent~1
+	news_0064567.json|1
+
+firm~1
+	news_0064567.json|3
+
+german~1
+	news_0064567.json|4
+
+half~1
+	news_0064567.json|1
+
+increas~1
+	news_0064569.json|1
+
+involv~1
+	news_0064567.json|1
+
+just~1
+	news_0064567.json|1
+
+liam~1
+	news_0064567.json|1
+
+manag~1
+	news_0064567.json|2
+
+member~1
+	news_0064567.json|1
+
+move~1
+	news_0064567.json|2
+
+novemb~1
+	news_0064567.json|2
+
+per~1
+	news_0064568.json|1
+
+plan~1
+	news_0064567.json|2
+
+relat~1
+	news_0064567.json|1
+
+result~1
+	news_0064568.json|1
+
+sale~1
+	news_0064568.json|1
+
+statement~1
+	news_0064567.json|1
+
+sword~1
+	news_0064567.json|1
+
+unsettl~1
+	news_0064567.json|1
+
+ad~1
+	news_0064567.json|1
+
+addit~1
+	news_0064567.json|1
+
+alreadi~1
+	news_0064567.json|1
+
+ani~1
+	news_0064567.json|1
+
+attribut~1
+	news_0064567.json|1
+
+bdi~1
+	news_0064567.json|2
+
+bilater~1
+	news_0064567.json|1
+
+brexit~1
+	news_0064567.json|5
+
+bureaucracyin~1
+	news_0064567.json|1
+
+call~1
+	news_0064567.json|1
+
+chairman~1
+	news_0064569.json|1
+
+changealmost~1
+	news_0064567.json|1
+
+commit~1
+	news_0064569.json|1
+
+consequ~1
+	news_0064567.json|2
+
+coverag~1
+	news_0064568.json|1
+
+damocl~1
+	news_0064567.json|1
+
+departur~1
+	news_0064567.json|1
+
+due~1
+	news_0064567.json|2
+
+eight~1
+	news_0064567.json|1
+
+ensur~1
+	news_0064567.json|1
+
+estim~1
+	news_0064567.json|1
+
+expect~1
+	news_0064567.json|3
+
+fairbairn~1
+	news_0064567.json|2
+
+fifti~1
+	news_0064567.json|1
+
+fox~1
+	news_0064567.json|1
+
+germani~1
+	news_0064567.json|3
+
+group~2
+	news_0064568.json|2
+	news_0064567.json|1
+
+hang~1
+	news_0064567.json|1
+
+improv~1
+	news_0064567.json|1
+
+interest~1
+	news_0064569.json|1
+
+invest~1
+	news_0064567.json|1
+
+januari~1
+	news_0064568.json|2
+
+joachim~1
+	news_0064567.json|2
+
+lang~1
+	news_0064567.json|2
+
+levi~1
+	news_0064567.json|1
+
+london~1
+	news_0064567.json|2
+
+main~1
+	news_0064567.json|1
+
+market~1
+	news_0064567.json|2
+
+menac~1
+	news_0064567.json|1
+
+morn~1
+	news_0064569.json|1
+
+must~1
+	news_0064567.json|1
+
+nichollsfil~1
+	news_0064567.json|2
+
+now~1
+	news_0064567.json|1
+
+out~1
+	news_0064567.json|1
+
+percent~1
+	news_0064567.json|4
+
+photo~1
+	news_0064567.json|4
+
+pose~1
+	news_0064567.json|1
+
+prospect~1
+	news_0064567.json|3
+
+relationship~1
+	news_0064567.json|1
+
+respond~1
+	news_0064567.json|1
+
+risk~1
+	news_0064567.json|2
+
+share~1
+	news_0064568.json|1
+
+sourc~1
+	news_0064568.json|1
+
+still~1
+	news_0064567.json|2
+
+survey~1
+	news_0064567.json|4
+
+text~1
+	news_0064568.json|1
+
+two~1
+	news_0064567.json|2
+
+who~1
+	news_0064567.json|1
+
+~2
+	news_0064568.json|4
+	news_0064567.json|3
+
+also~1
+	news_0064567.json|1
+
+and~1
+	news_0064567.json|6
+
+appeal~1
+	news_0064567.json|1
+
+arriv~1
+	news_0064567.json|1
+
+bloc~1
+	news_0064567.json|1
+
+british~1
+	news_0064567.json|4
+
+busi~1
+	news_0064567.json|5
+
+calcul~1
+	news_0064567.json|1
+
+carolyn~1
+	news_0064567.json|2
+
+carrel~1
+	news_0064567.json|1
+
+clariti~1
+	news_0064567.json|1
+
+commerc~1
+	news_0064567.json|1
+
+common~1
+	news_0064567.json|1
+
+confeder~1
+	news_0064567.json|2
+
+content~1
+	news_0064567.json|1
+
+countri~1
+	news_0064567.json|2
+
+deal~1
+	news_0064567.json|1
+
+down~1
+	news_0064567.json|2
+
+edit~1
+	news_0064567.json|1
+
+eikon~1
+	news_0064568.json|1
+
+emerg~1
+	news_0064567.json|1
+
+eric~1
+	news_0064567.json|1
+
+eur~1
+	news_0064568.json|1
+
+exact~1
+	news_0064567.json|1
+
+extern~1
+	news_0064567.json|1
+
+feb~1
+	news_0064568.json|1
+
+for~2
+	news_0064568.json|3
+	news_0064567.json|4
+
+futur~1
+	news_0064567.json|1
+
+govern~1
+	news_0064567.json|2
+
+has~1
+	news_0064567.json|1
+
+hugh~1
+	news_0064567.json|1
+
+includ~1
+	news_0064567.json|1
+
+industri~1
+	news_0064567.json|3
+
+intereststh~1
+	news_0064567.json|1
+
+issu~1
+	news_0064567.json|1
+
+juli~1
+	news_0064567.json|2
+
+key~1
+	news_0064567.json|1
+
+layer~1
+	news_0064567.json|1
+
+leav~1
+	news_0064567.json|1
+
+minist~1
+	news_0064567.json|1
+
+nation~1
+	news_0064567.json|1
+
+one~1
+	news_0064567.json|1
+
+oper~1
+	news_0064567.json|3
+
+partieswrit~1
+	news_0064567.json|1
+
+perceiv~1
+	news_0064567.json|1
+
+pessimist~1
+	news_0064567.json|1
+
+pictur~1
+	news_0064567.json|1
+
+point~1
+	news_0064567.json|1
+
+possiblefil~1
+	news_0064567.json|1
+
+presid~1
+	news_0064567.json|1
+
+refer~1
+	news_0064567.json|1
+
+remain~1
+	news_0064567.json|1
+
+reuterspet~1
+	news_0064567.json|2
+
+said~1
+	news_0064567.json|2
+
+sellout~1
+	news_0064567.json|1
+
+show~1
+	news_0064567.json|2
+
+soon~1
+	news_0064567.json|1
+
+stay~1
+	news_0064567.json|1
+
+stock~1
+	news_0064569.json|1
+
+street~1
+	news_0064567.json|2
+
+swift~1
+	news_0064567.json|1
+
+tariff~1
+	news_0064567.json|1
+
+the~1
+	news_0064567.json|16
+
+tuesdayth~1
+	news_0064567.json|1
+
+unclear~1
+	news_0064567.json|1
+
+wednesday~1
+	news_0064569.json|1
+
+wors~1
+	news_0064567.json|1
+
+lawson~1
+	news_0064567.json|1
+
+our~1
+	news_0064567.json|1
+
+outsid~1
+	news_0064567.json|1
+
+paul~1
+	news_0064567.json|1
+
+polit~1
+	news_0064567.json|1
+
+posit~1
+	news_0064567.json|1
+
+postbrexit~1
+	news_0064567.json|1
+
+rise~1
+	news_0064567.json|1
+
+schweitzer~1
+	news_0064567.json|3
+
+set~1
+	news_0064567.json|1
+
+strengthenedbritain~1
+	news_0064567.json|1
+
+tuesday~1
+	news_0064567.json|1
+
+union~1
+	news_0064567.json|2
+
+warn~1
+	news_0064567.json|1
+
+will~1
+	news_0064567.json|1
+
+year~1
+	news_0064567.json|1
+

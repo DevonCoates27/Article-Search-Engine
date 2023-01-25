@@ -1,0 +1,22 @@
+../sample_data/coll_1
+jerome powell~1
+	news_0064569.json|1
+
+eric schweitzer~1
+	news_0064567.json|1
+
+powell~1
+	news_0064569.json|1
+
+carolyn julie fairbairn~1
+	news_0064567.json|1
+
+joachim lang~1
+	news_0064567.json|1
+
+strax ab~1
+	news_0064568.json|1
+
+schweitzer~1
+	news_0064567.json|1
+
