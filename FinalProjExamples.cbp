@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FinalProjExamples"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests">
+				<Option output="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests/fast">
+				<Option output="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="supersearch">
+				<Option output="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/supersearch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/rapidjson"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 supersearch"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="supersearch/fast">
+				<Option output="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/supersearch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/rapidjson"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 supersearch/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/AVLMap.cpp">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/AVLMap.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/AVLTree.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/DocumentParser.cpp">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/DocumentParser.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/IndexHandler.cpp">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/IndexHandler.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/UserInterface.cpp">
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/UserInterface.h">
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/Word.cpp">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/Word.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/documentID.cpp">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/documentID.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/porter2_stemmer-master/porter2_stemmer.cpp">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/porter2_stemmer-master/porter2_stemmer.h">
+			<Option target="tests"/>
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/rapidJSONExample.cpp">
+			<Option target="supersearch"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="/Users/devoncoates/Documents/GitHub/assignment-4-search-engine-ryan-devon/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
